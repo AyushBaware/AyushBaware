@@ -140,6 +140,10 @@ I'm a **Full Stack Developer** and **MCA student** at VESIT Mumbai (CGPA: 9.17/1
   <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AyushBaware&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
