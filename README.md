@@ -40,7 +40,7 @@ I'm a **Full Stack Developer** and **MCA student** at VESIT Mumbai (CGPA: 9.17/1
   <a href="https://github.com/AyushBaware" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://https://ayush-dev-portfolio-nine.vercel.app" target="_blank">
+  <a href="https://ayush-dev-portfolio-nine.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -100,7 +100,7 @@ I'm a **Full Stack Developer** and **MCA student** at VESIT Mumbai (CGPA: 9.17/1
 **Stack:** `React` · `Firebase` · `Tailwind CSS` · `PWA` · `AI APIs`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white)](https://finsight-ai-finance-manager.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushBaware/FinSight)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushBaware/finsight-ai-finance-manager)
 
 - Cross-device PWA with voice input for expense logging and automatic AI categorization
 - Real-time analytics dashboard with AI-generated budget and investment recommendations
@@ -135,15 +135,9 @@ I'm a **Full Stack Developer** and **MCA student** at VESIT Mumbai (CGPA: 9.17/1
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushBaware&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushBaware&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AyushBaware&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -168,7 +162,7 @@ I'm a **Full Stack Developer** and **MCA student** at VESIT Mumbai (CGPA: 9.17/1
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyushBaware/AyushBaware/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="./profile/snake.svg" alt="Snake animation" />
 </p>
 
 ---
