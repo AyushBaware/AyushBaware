@@ -38,8 +38,8 @@
   <tr><td><b>🎓 Education</b></td><td>MCA @ VESIT Mumbai &nbsp;|&nbsp; CGPA: 9.17/10<br/>B.Sc. IT @ Mohota College, Nagpur</td></tr>
   <tr><td><b>🔍 Focus</b></td><td>Scalable Web Apps · AI Integration · IoT Systems · PWA</td></tr>
   <tr><td><b>⚙️ Stack</b></td><td>React · Node.js · Express · MongoDB · Firebase · Spring Boot</td></tr>
-  <tr><td><b>📫 Contact</b></td><td><a href="mailto:ayushbaware@gmail.com" target="_blank">ayushbaware@gmail.com</a></td></tr>
-  <tr><td><b>🌐 Portfolio</b></td><td><a href="https://ayush-dev-portfolio-nine.vercel.app" target="_blank">ayush-dev-portfolio-nine.vercel.app</a></td></tr>
+  <tr><td><b>📫 Contact</b></td><td><a href="mailto:ayushbaware@gmail.com">ayushbaware@gmail.com</a></td></tr>
+  <tr><td><b>🌐 Portfolio</b></td><td><a href="https://ayush-dev-portfolio-nine.vercel.app">ayush-dev-portfolio-nine.vercel.app</a></td></tr>
   <tr><td><b>🟢 Status</b></td><td>Open to SDE Internships</td></tr>
 </table>
 
@@ -65,16 +65,16 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ayushbaware" target="_blank">
+  <a href="https://linkedin.com/in/ayushbaware">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ayushbaware@gmail.com" target="_blank">
+  <a href="mailto:ayushbaware@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ayush-dev-portfolio-nine.vercel.app" target="_blank">
+  <a href="https://ayush-dev-portfolio-nine.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/AyushBaware" target="_blank">
+  <a href="https://github.com/AyushBaware">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -127,8 +127,8 @@
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
       </p>
       <p>
-        <a href="https://finsight-ai-finance-manager.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐 Live Demo-6A5ACD?style=for-the-badge" /></a>
-        <a href="https://github.com/AyushBaware/finsight-ai-finance-manager" target="_blank"><img src="https://img.shields.io/badge/📂 Source-181717?style=for-the-badge" /></a>
+        <a href="https://finsight-ai-finance-manager.vercel.app"><img src="https://img.shields.io/badge/🌐 Live Demo-6A5ACD?style=for-the-badge" /></a>
+        <a href="https://github.com/AyushBaware/finsight-ai-finance-manager"><img src="https://img.shields.io/badge/📂 Source-181717?style=for-the-badge" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -140,8 +140,8 @@
         <img src="https://img.shields.io/badge/Glassmorphism-6A5ACD?style=flat-square" />
       </p>
       <p>
-        <a href="https://task-orbiter-3d.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐 Live Demo-6A5ACD?style=for-the-badge" /></a>
-        <a href="https://github.com/AyushBaware/Immersive-Task-Interface" target="_blank"><img src="https://img.shields.io/badge/📂 Source-181717?style=for-the-badge" /></a>
+        <a href="https://task-orbiter-3d.vercel.app"><img src="https://img.shields.io/badge/🌐 Live Demo-6A5ACD?style=for-the-badge" /></a>
+        <a href="https://github.com/AyushBaware/Immersive-Task-Interface"><img src="https://img.shields.io/badge/📂 Source-181717?style=for-the-badge" /></a>
       </p>
     </td>
   </tr>
@@ -155,7 +155,7 @@
         <img src="https://img.shields.io/badge/IIoT-Edge-FF6C37?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/AyushBaware/IIoT-Adaptive-Smart-Lighting" target="_blank"><img src="https://img.shields.io/badge/📂 Source-181717?style=for-the-badge" /></a>
+        <a href="https://github.com/AyushBaware/IIoT-Adaptive-Smart-Lighting"><img src="https://img.shields.io/badge/📂 Source-181717?style=for-the-badge" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -167,7 +167,7 @@
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <p>
-        <a href="https://ayush-dev-portfolio-nine.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐 Live Demo-6A5ACD?style=for-the-badge" /></a>
+        <a href="https://ayush-dev-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/🌐 Live Demo-6A5ACD?style=for-the-badge" /></a>
       </p>
     </td>
   </tr>
@@ -216,7 +216,7 @@
 ## 📜 Certifications
 
 <p>
-  <a href="https://www.credly.com/badges/96f11c25-c324-4174-9c24-f38f2412e3e0/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/96f11c25-c324-4174-9c24-f38f2412e3e0/public_url">
     <img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
 </p>
@@ -247,9 +247,9 @@
 
 <p align="center">
   <b>💼 Available for SDE Internships — let's build something impactful together!</b><br/><br/>
-  <a href="mailto:ayushbaware@gmail.com" target="_blank">ayushbaware@gmail.com</a>
+  <a href="mailto:ayushbaware@gmail.com">ayushbaware@gmail.com</a>
   &nbsp;|&nbsp;
-  <a href="https://ayush-dev-portfolio-nine.vercel.app" target="_blank">Portfolio</a>
+  <a href="https://ayush-dev-portfolio-nine.vercel.app">Portfolio</a>
   &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/ayushbaware" target="_blank">LinkedIn</a>
+  <a href="https://linkedin.com/in/ayushbaware">LinkedIn</a>
 </p>
