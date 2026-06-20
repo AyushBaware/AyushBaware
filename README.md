@@ -204,7 +204,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="./profile/trophies.svg" alt="Trophies" />
+  <img src="https://trophygh.kolioaris.xyz/?username=AyushBaware&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="Trophies" />
 </p>
 
 <br/>
