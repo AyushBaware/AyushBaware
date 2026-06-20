@@ -204,7 +204,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushBaware&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="Trophies" />
+  <img src="./profile/trophies.svg" alt="Trophies" />
 </p>
 
 <br/>
