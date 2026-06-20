@@ -30,8 +30,11 @@ jobs:
           github_user_name: AyushBaware
           outputs: profile/snake.svg
       - name: Generate trophies
-        run: |
-          curl -s "https://github-profile-trophy.vercel.app/?username=AyushBaware&theme=tokyonight&no-frame=true&column=7&margin-w=6" -o profile/trophies.svg
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: AyushBaware
+          output_path: profile/trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit all generated files
         run: |
           git config user.name "github-actions[bot]"
