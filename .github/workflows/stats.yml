@@ -29,12 +29,6 @@ jobs:
         with:
           github_user_name: AyushBaware
           outputs: profile/snake.svg
-      - name: Generate trophies
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: AyushBaware
-          output_path: profile/trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit all generated files
         run: |
           git config user.name "github-actions[bot]"
