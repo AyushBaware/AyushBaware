@@ -37,7 +37,7 @@
   <tr><td><b>💼 Role</b></td><td>Full Stack Developer (MERN + Java)</td></tr>
   <tr><td><b>🎓 Education</b></td><td>MCA @ VESIT Mumbai &nbsp;|&nbsp; CGPA: 9.17/10<br/>B.Sc. IT @ Mohota College, Nagpur</td></tr>
   <tr><td><b>🔍 Focus</b></td><td>Scalable Web Apps · AI Integration · IoT Systems · PWA</td></tr>
-  <tr><td><b>⚙️ Stack</b></td><td>React · Node.js · Express · MongoDB · Firebase · Spring Boot</td></tr>
+  <tr><td><b>⚙️ Stack</b></td><td>React · Node.js · Express · MongoDB · PostgreSQL · Firebase · Spring Boot</td></tr>
   <tr><td><b>📫 Contact</b></td><td><a href="mailto:ayushbaware@gmail.com">ayushbaware@gmail.com</a></td></tr>
   <tr><td><b>🌐 Portfolio</b></td><td><a href="https://ayush-dev-portfolio-nine.vercel.app">ayush-dev-portfolio-nine.vercel.app</a></td></tr>
   <tr><td><b>🟢 Status</b></td><td>Open to SDE Internships</td></tr>
@@ -51,7 +51,7 @@
 - 🎮 Created an **Immersive Task Interface** with Three.js 3D environment running at 60 FPS
 - 💡 Built an **IIoT Smart Lighting System** on Arduino — fully edge-based, zero cloud dependency
 - 🏅 **AWS Academy Graduate** — Machine Learning Foundations *(April 2026)*
-- 🌱 Exploring: Spring Boot microservices · advanced React patterns · cloud-native deployment
+- 🌱 Exploring: PostgreSQL · Spring Boot microservices · advanced React patterns · cloud-native deployment
 - ⚡ Fun fact: I once spent 6 hours perfecting a CSS animation that plays for 2 seconds
 
 </details>
@@ -99,7 +99,7 @@
 
 **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,firebase&theme=dark" />
 </p>
 
 **Tools & Platforms**
