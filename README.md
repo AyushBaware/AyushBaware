@@ -11,7 +11,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=AyushBaware&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/badge/Open%20To-SDE%20Internships-brightgreen?style=flat-square&logo=briefcase" />
-  <img src="https://img.shields.io/badge/CGPA-9.17%2F10-gold?style=flat-square&logo=academia" />
+  <img src="https://img.shields.io/badge/CGPA-9.35%2F10-gold?style=flat-square&logo=academia" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&random=false&width=700&height=60&lines=Hey+there!+I'm+Ayush+Baware+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%2B+Java;Building+AI-Powered+%26+IoT+Solutions+%F0%9F%9A%80;MCA+%40+VESIT+Mumbai+%7C+CGPA+9.17%2F10;Open+to+SDE+Internships+%F0%9F%92%BC" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&random=false&width=700&height=60&lines=Hey+there!+I'm+Ayush+Baware+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%2B+Java;Building+AI-Powered+%26+IoT+Solutions+%F0%9F%9A%80;MCA+%40+VESIT+Mumbai+%7C+CGPA+9.35%2F10;Open+to+SDE+Internships+%F0%9F%92%BC" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 <table>
   <tr><td><b>👤 Name</b></td><td>Ayush Baware</td></tr>
   <tr><td><b>💼 Role</b></td><td>Full Stack Developer (MERN + Java)</td></tr>
-  <tr><td><b>🎓 Education</b></td><td>MCA @ VESIT Mumbai &nbsp;|&nbsp; CGPA: 9.17/10<br/>B.Sc. IT @ Mohota College, Nagpur</td></tr>
+  <tr><td><b>🎓 Education</b></td><td>MCA @ VESIT Mumbai &nbsp;|&nbsp; CGPA: 9.35/10<br/>B.Sc. IT @ Mohota College, Nagpur</td></tr>
   <tr><td><b>🔍 Focus</b></td><td>Scalable Web Apps · AI Integration · IoT Systems · PWA</td></tr>
   <tr><td><b>⚙️ Stack</b></td><td>React · Node.js · Express · MongoDB · PostgreSQL · Firebase · Spring Boot</td></tr>
   <tr><td><b>📫 Contact</b></td><td><a href="mailto:ayushbaware@gmail.com">ayushbaware@gmail.com</a></td></tr>
