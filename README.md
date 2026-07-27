@@ -182,9 +182,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushBaware&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushBaware&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -204,7 +204,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://trophygh.kolioaris.xyz/?username=AyushBaware&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushBaware&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="Trophies" />
 </p>
 
 <br/>
