@@ -1,0 +1,34 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows you to trigger it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: AyushBaware
+          THEME: tokyo-night
+          AREA: true
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          
+          # This moves the generated file into your existing profile directory
+          mkdir -p profile
+          mv ./profile-activity-graph.svg ./profile/activity-graph.svg
+          
+          git add ./profile/activity-graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git push
