@@ -191,10 +191,9 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=AyushBaware&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center"> 
-  <img src="https://vercel.app" width="95%" alt="Activity Graph" /> 
+<p align="center">
+  <img src="./profile/activity-graph.svg" width="95%" alt="Activity Graph" />
 </p>
-
 
 <br/>
 
