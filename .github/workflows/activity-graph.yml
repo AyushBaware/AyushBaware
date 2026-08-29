@@ -3,7 +3,10 @@ name: Generate Activity Graph
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allows you to trigger it manually
+  workflow_dispatch: # Allows you to trigger it manually anytime
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -22,16 +25,18 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 30
           plugin_activity_filter: commit
-          filename: profile-activity-graph.svg
+          filename: activity-graph.svg
+          output_action: none # CRITICAL: Stops the plugin from auto-committing so our custom path script can run smoothly
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
+          # Safely move the output into your profile subdirectory
           mkdir -p profile
-          mv ./profile-activity-graph.svg ./profile/activity-graph.svg
+          mv /home/runner/work/AyushBaware/AyushBaware/activity-graph.svg ./profile/activity-graph.svg
           
-          git add ./profile/activity-graph.svg
+          git add profile/activity-graph.svg
           git commit -m "Update activity graph" || exit 0
           git push
