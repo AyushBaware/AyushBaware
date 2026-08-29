@@ -13,19 +13,22 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: lowlighter/metrics@latest
         with:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: AyushBaware
-          THEME: tokyo-night
-          AREA: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AyushBaware
+          template: classic
+          base: ""
+          plugin_activity: yes
+          plugin_activity_days: 30
+          plugin_activity_filter: commit
+          filename: profile-activity-graph.svg
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@://github.com"
           
-          # This moves the generated file into your existing profile directory
           mkdir -p profile
           mv ./profile-activity-graph.svg ./profile/activity-graph.svg
           
