@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate Graph
+      - name: Generate and Commit Graph
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -25,18 +25,4 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 30
           plugin_activity_filter: commit
-          filename: activity-graph.svg
-          output_action: none # CRITICAL: Stops the plugin from auto-committing so our custom path script can run smoothly
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Safely move the output into your profile subdirectory
-          mkdir -p profile
-          mv /home/runner/work/AyushBaware/AyushBaware/activity-graph.svg ./profile/activity-graph.svg
-          
-          git add profile/activity-graph.svg
-          git commit -m "Update activity graph" || exit 0
-          git push
+          filename: profile/activity-graph.svg # Natively saves and commits right inside your profile folder
